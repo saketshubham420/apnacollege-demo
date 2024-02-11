@@ -1,4 +1,4 @@
 # apnacollege-demo
 Thsi is my first repository
 <br>
-author - saket shubham
+author - saket shubham(apna college)
